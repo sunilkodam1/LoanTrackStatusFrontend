@@ -1,0 +1,59 @@
+.tracking {
+
+    background-color: rgb(246, 132, 164);
+
+    border-radius: 100px;
+
+    padding: 10px;
+
+    margin-top: 25%;
+
+}
+
+
+
+.form-control {
+
+    background-color: rgb(214, 250, 131);
+
+    padding: 10px;
+
+    margin-top: 10px;
+
+}
+
+
+
+.buttonSub{
+
+    border-radius: 100px;
+
+    background-color: rgb(189, 113, 13);
+
+    border: none;
+
+    cursor: pointer;
+
+    margin-left: 350%;
+
+}
+
+
+
+.app {
+
+    padding: 10px;
+
+    background-color: greenyellow;
+
+    border-radius: 100px;
+
+}
+
+.navbar{
+    color: beige;
+}
+
+.text-center{
+    text-align: center;
+}
